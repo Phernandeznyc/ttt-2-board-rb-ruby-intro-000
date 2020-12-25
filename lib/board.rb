@@ -1,5 +1,5 @@
 board = Array.new #=> [" "," "," "," "," "," "," "," "," "," "]
-
+row = [" "," "," "]
 # Position 1: Left
 row[0]
 
